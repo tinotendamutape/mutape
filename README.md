@@ -1,5 +1,5 @@
 # Skip to content
-sandiwijayani1
+Mutapespoke
 /
 SpamWa-1
 Code
@@ -12,8 +12,8 @@ Wiki
 Security
 Insights
 SpamWa-1/spam.py
-@sandiwijayani1
-sandiwijayani1 Update spam.py
+@mutape
+Tinotenda Update spam.py
  1 contributor
 303 lines (296 sloc)  11.1 KB
  
